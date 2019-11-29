@@ -1,1 +1,4 @@
 theme: jekyll-theme-architect
+layout: page 
+title: "记录" 
+permalink: /URL-PATH/
