@@ -1,14 +1,14 @@
-layout: page
-title: "我来了"
-permalink: /blob/guide
 
-# 标题1
-## 标题2
-##### 标题5
+# 2019年11月29日
+## 周五
+##### 18:12
 
-* Item 1
-* Item 2
-  * Item 2a
-  * Item 2b
+* go
+* php
+  * yii
+  * yaf
+  * thinkphp
+
+![程序员 图标](http://www.baidu.com/baidu.php?url=060000KKXYb9K48fSdW52WjgDQNc99b0zkzH3rUCvuSW6uILzCZabVxxHQ5We_HuyfgveHGBkJsAA7ZjSVHJtbYv09COqUvqBaKi1oyiZOcdrKAfusvkL8XvkBRQtlqpiVjp_Bz9wpcs9fb-Z32AcfTVmoeYjWcdwfWgFOlL9ecHVht83oPaYV18_-vldyhBUaX4DLGIL6pXiMXbdPnjXoWtMk3Z.Db_i5CXNSgwslu8ijZNW6vtdQqQrGPM7muCy2qvHkR0.U1Y10ZDq_t1ftVik0ZKGm1Yk0Zfq_t1ftVik_Xa110KGUHY1PWT0u1dsTv410ZNG5fKspyfqnfKWpyfqn16d0AdY5Hnsrj-xnW03rfKopHYk0ZFY5HfYnfK-pyfq0AFG5HKxnW0Yg1nsn-t1njn0Uynqn7ts0Z7spyfqn0Kkmv-b5H00ThIYmyTqn0KVpyfqn0KGTgfqn0K9mWYsg100ugFM5H00TZ0qn0K8IM0qna3snj0snj0sn0KVIZ0qn0KbuAqs5H00ThCqn0KhIjYs0ZKC5H00ULnqn0KBI1Ys0A4Y5H00TLCq0A71gv-bm1dbnHmVmLf0pywW5fKYIgnqnHDznjf3PHRsrHRdPHbznj6Lnjm0ThNkIjYkPHTdnjczPH03nWns0ZPGujYLuhcduj9huHn4nvDdnhNh0AP1UHYsrjcdwH7KnW9APbRvnDDL0A7W5HD0TA3qn0KkUgfqn0KkUgnqn0KlIjYs0AdWgvuzUvYqn7ts0Aw9UMNBuNqsUA78pyw15HKxn0Ksmgwxuhk9u1Ys0AwWpyfqn0K-IA-b5iYk0A71TAPW5H00IgKGUhPW5H00Tydh5H00uhPdIjYs0A-1mvsqn0KlTAkdT1Ys0A7buhk9u1Yk0Akhm1Ys0AwWmvfq0AFY5H00ULfqn0KETMKY5H0WnanWnansc10Wna3snj0snj0WnanWn0KkgLmqnH0sQW0sg108njKxna3sn7tsQW0kg108nj7xna3sn0KWThnqrHnsP6&word=%E7%A8%8B%E5%BA%8F%E5%91%98)
   
   
